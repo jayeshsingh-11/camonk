@@ -1,5 +1,6 @@
 {
   "name": "camonk-interview",
+  "description": "A modern blog application with split-panel layout, built using React, TanStack Query, and Tailwind CSS.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
